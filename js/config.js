@@ -47,7 +47,7 @@ var cfg_musicPlaylist = [
 	{ogg: "songs/sfainter-Digital-парилка.ogg", name: "sfainter - Digital парилка"},
 	{ogg: "songs/Royal-Republic-Fireman-_-Dancer.ogg", name: "Royal Republic - Fireman & Dancer"},
 	{ogg: "songs/Bee-Gees-Stayin_-Alive-_Official-Music-Video_.ogg", name: "Bee Gees - Stayin Alive"},
-	{ogg: "songs/ivanstreet.ogg", name: "Initial D x Нина Бродская - Иван Васильевич занялся стритрейсингом"}
+	{ogg: "songs/honda.ogg", name: "ЕБАНЬКО x INITIAL D — DON'T STOP THE HONDA"},
 ];
 
 /*Random music order?*/
