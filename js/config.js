@@ -46,8 +46,10 @@ Place how much Youtube IDs/.ogg you want*/
 var cfg_musicPlaylist = [
 	{ogg: "songs/sfainter-Digital-парилка.ogg", name: "sfainter - Digital парилка"},
 	{ogg: "songs/Royal-Republic-Fireman-_-Dancer.ogg", name: "Royal Republic - Fireman & Dancer"},
-	{ogg: "songs/Bee-Gees-Stayin_-Alive-_Official-Music-Video_.ogg", name: "Bee Gees - Stayin Alive"},
+	{ogg: "songs/Daft-Punk-Robot-Rock.ogg", name: "Daft Punk - Robot Rock"},
 	{ogg: "songs/honda.ogg", name: "ЕБАНЬКО x INITIAL D — DON'T STOP THE HONDA"},
+	{ogg: "songs/pepsiman.ogg", name: "Pepsiman Pepsiman Pepsiman / Pepsiman Remix"},
+	{ogg: "songs/Revenge-_-Eurobeat-Remix.ogg", name: "Revenge / Eurobeat Remix"},
 ];
 
 /*Random music order?*/
